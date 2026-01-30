@@ -34,4 +34,11 @@ Saya adalah seorang developer yang senang mengeksplorasi hal-hal baru.
 ### 🐍 Contribution Snake
 <img src="https://capsule-render.vercel.app/api?type=rect&color=30a14e&height=30&section=footer&text=Keep%20Coding%20and%20Keep%20Learning&fontSize=15" />
 
+---
+<p align="center">
+  <img src="https://profile-counter.glitch.me/chipper26/count.svg" alt="Visitor Count" />
+  <br>
+  <i>Total Pengunjung Profil</i>
+</p>
+
 </div>
