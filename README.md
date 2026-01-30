@@ -1,7 +1,7 @@
 <div align="center">
 
 # Halo, Saya Chipper! 👋
-![Header](https://capsule-render.vercel.app/api?type=waving&color=30a14e&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=50&animation=fadeIn)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=30a14e&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=50&animation=fadeIn" />
 
 ---
 
@@ -16,9 +16,11 @@ Saya adalah seorang developer yang senang mengeksplorasi hal-hal baru.
 ---
 
 ### 📊 Statistik Aktivitas
-<img src="https://github-readme-stats.vercel.app/api?username=chipper26&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Chipper Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chipper26&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chipper26&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="400" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chipper26&layout=compact&theme=tokyonight&hide_border=true" width="300" />
+</p>
 
 ---
 
